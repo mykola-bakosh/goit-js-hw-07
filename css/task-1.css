@@ -12,6 +12,12 @@ ul {
   flex-direction: column;
   gap: 24px;
   align-items: center;
+}
+.wrapper-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
   background-color: #fff;
 }
 .container {
